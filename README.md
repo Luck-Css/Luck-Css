@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Luck-Css/Luck-Css** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I just like building with code.
 
-Here are some ideas to get you started:
+## 🎮 Game Development
+Unity & GameMaker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Front-End
+React, JavaScript, HTML, CSS
+
+## 🗄️ Database
+MySQL
+
+## 🚀 Currently
+- Building small games to improve mechanics and logic
+- Creating front-end projects with React
+- Learning more about databases and back-end fundamentals
