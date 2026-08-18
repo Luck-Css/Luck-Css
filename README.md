@@ -16,7 +16,7 @@ I focus on building solid web applications and strengthening my technical founda
 - CSS
 
 ### Database
-- MySQL
+- PostgreSQL
 
 Currently improving my understanding of application structure, clean architecture, and problem-solving.
 
